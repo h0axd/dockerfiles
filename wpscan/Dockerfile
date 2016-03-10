@@ -1,4 +1,4 @@
-FROM ruby:2.1.6
+FROM ruby:2.1.8
 MAINTAINER Tom Steele <tom@stacktitan.com>
 
 WORKDIR /root
